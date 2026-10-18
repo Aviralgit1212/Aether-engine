@@ -1,0 +1,6 @@
+{
+  "name": "Aether Engine",
+  "description": "Local-first real-time particle simulation guided by in-browser hand tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
